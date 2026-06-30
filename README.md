@@ -53,3 +53,5 @@ This is the final part of the Cybersecurity Awareness Chatbot project. It builds
 - Encouragement for concerned users
 
 ## Project Structure
+### [Watch on YouTube](https://youtu.be/TUIOjgL7JBk)
+[![Main](https://img.youtube.com/vi/TUIOjgL7JBk/0.jpg)](https://www.youtube.com/watch?v=TUIOjgL7JBk)
